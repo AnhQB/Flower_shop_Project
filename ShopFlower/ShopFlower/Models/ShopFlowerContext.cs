@@ -190,8 +190,6 @@ namespace ShopFlower.Models
                     .HasMaxLength(100)
                     .HasColumnName("proName");
 
-                entity.Property(e => e.Quantity).HasColumnName("quantity");
-
                 entity.Property(e => e.Status)
                     .HasColumnName("status")
                     .HasDefaultValueSql("((1))");

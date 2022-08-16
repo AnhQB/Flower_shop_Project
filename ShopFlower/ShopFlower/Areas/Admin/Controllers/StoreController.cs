@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ShopFlower.Models;
 
-namespace ShopFlower.Controllers.admin
+namespace ShopFlower.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Route("admin/store")]
