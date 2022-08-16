@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ki_5_2022,may\\PRN211\\Learn\\project\\ShopFlower\\ShopFlower\\ShopFlower.csproj": {}
+    "D:\\ki_5_2022,may\\PRN211\\project\\Flower_shop_Project\\ShopFlower\\ShopFlower\\ShopFlower.csproj": {}
   },
   "projects": {
-    "D:\\ki_5_2022,may\\PRN211\\Learn\\project\\ShopFlower\\ShopFlower\\ShopFlower.csproj": {
+    "D:\\ki_5_2022,may\\PRN211\\project\\Flower_shop_Project\\ShopFlower\\ShopFlower\\ShopFlower.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ki_5_2022,may\\PRN211\\Learn\\project\\ShopFlower\\ShopFlower\\ShopFlower.csproj",
+        "projectUniqueName": "D:\\ki_5_2022,may\\PRN211\\project\\Flower_shop_Project\\ShopFlower\\ShopFlower\\ShopFlower.csproj",
         "projectName": "ShopFlower",
-        "projectPath": "D:\\ki_5_2022,may\\PRN211\\Learn\\project\\ShopFlower\\ShopFlower\\ShopFlower.csproj",
+        "projectPath": "D:\\ki_5_2022,may\\PRN211\\project\\Flower_shop_Project\\ShopFlower\\ShopFlower\\ShopFlower.csproj",
         "packagesPath": "C:\\Users\\LAPTOP VINH HA\\.nuget\\packages\\",
-        "outputPath": "D:\\ki_5_2022,may\\PRN211\\Learn\\project\\ShopFlower\\ShopFlower\\obj\\",
+        "outputPath": "D:\\ki_5_2022,may\\PRN211\\project\\Flower_shop_Project\\ShopFlower\\ShopFlower\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAPTOP VINH HA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,6 +53,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
